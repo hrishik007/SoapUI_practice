@@ -1,0 +1,83 @@
+<Response xmlns="http://maps.googleapis.com/maps/api/geocode/json">
+   <results>
+      <e>
+         <address_components>
+            <e>
+               <long_name>1600</long_name>
+               <short_name>1600</short_name>
+               <types>
+                  <e>street_number</e>
+               </types>
+            </e>
+            <e>
+               <long_name>Amphitheatre Pkwy</long_name>
+               <short_name>Amphitheatre Pkwy</short_name>
+               <types>
+                  <e>route</e>
+               </types>
+            </e>
+            <e>
+               <long_name>Mountain View</long_name>
+               <short_name>Mountain View</short_name>
+               <types>
+                  <e>locality</e>
+                  <e>political</e>
+               </types>
+            </e>
+            <e>
+               <long_name>Santa Clara</long_name>
+               <short_name>Santa Clara</short_name>
+               <types>
+                  <e>administrative_area_level_2</e>
+                  <e>political</e>
+               </types>
+            </e>
+            <e>
+               <long_name>California</long_name>
+               <short_name>CA</short_name>
+               <types>
+                  <e>administrative_area_level_1</e>
+                  <e>political</e>
+               </types>
+            </e>
+            <e>
+               <long_name>United States</long_name>
+               <short_name>US</short_name>
+               <types>
+                  <e>country</e>
+                  <e>political</e>
+               </types>
+            </e>
+            <e>
+               <long_name>94043</long_name>
+               <short_name>94043</short_name>
+               <types>
+                  <e>postal_code</e>
+               </types>
+            </e>
+         </address_components>
+         <formatted_address>1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA</formatted_address>
+         <geometry>
+            <location>
+               <lat>37.4218281</lat>
+               <lng>-122.0846263</lng>
+            </location>
+            <location_type>ROOFTOP</location_type>
+            <viewport>
+               <northeast>
+                  <lat>37.4231770802915</lat>
+                  <lng>-122.0832773197085</lng>
+               </northeast>
+               <southwest>
+                  <lat>37.4204791197085</lat>
+                  <lng>-122.0859752802915</lng>
+               </southwest>
+            </viewport>
+         </geometry>
+         <types>
+            <e>street_address</e>
+         </types>
+      </e>
+   </results>
+   <status>OK</status>
+</Response>
